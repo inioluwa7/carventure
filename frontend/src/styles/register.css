@@ -1,0 +1,18 @@
+
+.register_form {
+    border-radius: 24px;
+    background: #D9D9D980;
+}
+
+.register_form a {
+    text-decoration: none;
+}
+
+.submit__btn button{
+    width: 688px;
+    background: var(--secondary-color);
+}
+
+.register_form h5 {
+    color: #fff;
+}
