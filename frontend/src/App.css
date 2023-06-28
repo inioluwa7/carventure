@@ -4,7 +4,6 @@
 :root {
   --primary-color: #ff7e01;
   --secondary-color: #FF5C39;
-  --heading-color: #0b2727;
   --text-color: #6e7074;
   --font-name: "Montserrat", sans-serif;
   --subtitle-font-name: "Island Moments", cursive;
@@ -24,14 +23,7 @@ section {
   padding: 50px 0px;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: var(--heading-color);
-}
+
 
 a {
   text-decoration: none;

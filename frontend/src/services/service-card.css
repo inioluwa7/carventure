@@ -2,9 +2,10 @@
 
 .service__item {
     padding: 1rem;
-    border-bottom: 1px solid #faa83586;
-    border-right: 1px solid #faa83586;
-    border-radius: 0.5rem;
+    background-color: #D9D9D9;
+    border-radius: 24px;
+    text-align: center;
+
 }
 
 .service__img {
@@ -13,9 +14,10 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 50px;
-    background: var(--secondary-color);
-    padding: 0.5rem;
+    border-radius: 24px;
+    /* background: var(--secondary-color); */
+    padding: 3rem;
+    margin: auto;
     margin-bottom: 1rem;
     line-height: 50px;
 }
