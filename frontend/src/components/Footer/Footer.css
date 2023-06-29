@@ -1,0 +1,34 @@
+.footer {
+    background-color: rgb(56, 52, 52);
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+ h4 {
+    padding-top: 30px;
+    color: white;
+ }
+
+ /* unvisited link */
+a:link {
+    color: red;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+ p {
+    color: white;
+ }
