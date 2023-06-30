@@ -11,7 +11,7 @@
 
  /* unvisited link */
 a:link {
-    color: red;
+    color: white;
     text-decoration: none;
   }
   
@@ -29,6 +29,4 @@ a:link {
   a:active {
     color: blue;
   }
- p {
-    color: white;
- }
+ 

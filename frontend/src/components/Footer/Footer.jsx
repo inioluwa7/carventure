@@ -1,6 +1,6 @@
 import React from 'react'
 import { Container, Row, Button, Col} from 'reactstrap'
-import { FaMailBulk } from 'react-icons/fa';
+import { FaEnvelope } from 'react-icons/fa';
 import './Footer.css';
 
 const Footer = () => {
@@ -35,7 +35,7 @@ const Footer = () => {
           <Col lg='3'>
             <h4>SUPPORT</h4>
             <a href="#">
-              <p>< FaMailBulk className="mail_logo"/> Email</p>
+              <p>< FaEnvelope className="mail_logo" size="1.5em" /> Email</p>
             </a>
           </Col>
         </Row>

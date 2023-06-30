@@ -15,9 +15,13 @@ const nav__links=[
     path:'/about',
     display: 'About Us'
   },
+  {
+    path:'/faq',
+    display: 'FAQ'
+  },
   // {
-  //   path:'/tours',
-  //   display: 'Tours'
+    // path:'/tours',
+    // display: 'Tours'
   // },
 ]
 
@@ -44,6 +48,7 @@ const Header = () => {
                         </li>
                       ))
                     }
+                    
                 </ul>
               </div>
             {/* ========== Menu ends ======== */}
